@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "synthetichotwater"
+  site-url: "https://CJP123.github.io/synthetichotwater"
+  description: "Synthetic Hot Water Data"
+  repo-branch: main
+  repo-url: "https://github.com/CJP123/synthetichotwater"
